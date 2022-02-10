@@ -1,5 +1,8 @@
 {
-    "name": "licasoft nft 1",
-    "description": "Codigo en accción erc-1155",
-    "image": "https://utilizame.com/opensea/img/licasoftnft1.jpg"
+  "name": "NFT Licasoft",
+  "description": "Codigo en accción erc-1155 licasoft",
+  "image": "https://utilizame.com/opensea/img/licasoftnft1.png",
+  "external_link": "https://utilizame.com/opensea/index.php",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x04D54D33DF93cA6946C53a80717f33867cc2E704"
 }
