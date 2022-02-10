@@ -1,4 +1,8 @@
 // SPDX-License-Identifier: MIT
+
+// deploy https://remix.ethereum.org/
+
+
 pragma solidity 0.8.6;
 
 import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
